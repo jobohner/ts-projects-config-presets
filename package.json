@@ -1,6 +1,6 @@
 {
   "name": "@jobohner/ts-projects-config-presets",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Basic config presets that I use in my TypeScript projects.",
   "type": "module",
   "exports": {
