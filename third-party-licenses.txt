@@ -2310,7 +2310,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 The following npm package may be included in this product:
 
- - vite@6.2.6
+ - vite@6.3.0
 
 This package contains the following license:
 
@@ -3372,21 +3372,6 @@ Repository: git://github.com/primus/eventemitter3.git
 
 ---------------------------------------
 
-## fdir
-License: MIT
-By: thecodrr
-Repository: git+https://github.com/thecodrr/fdir.git
-
-> Copyright 2023 Abdullah Atta
-> 
-> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-> 
-> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-> 
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----------------------------------------
-
 ## finalhandler
 License: MIT
 By: Douglas Christopher Wilson
@@ -4115,35 +4100,6 @@ Repository: alexeyraspopov/picocolors
 
 ---------------------------------------
 
-## picomatch
-License: MIT
-By: Jon Schlinkert
-Repository: micromatch/picomatch
-
-> The MIT License (MIT)
-> 
-> Copyright (c) 2017-present, Jon Schlinkert.
-> 
-> Permission is hereby granted, free of charge, to any person obtaining a copy
-> of this software and associated documentation files (the "Software"), to deal
-> in the Software without restriction, including without limitation the rights
-> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-> copies of the Software, and to permit persons to whom the Software is
-> furnished to do so, subject to the following conditions:
-> 
-> The above copyright notice and this permission notice shall be included in
-> all copies or substantial portions of the Software.
-> 
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-> THE SOFTWARE.
-
----------------------------------------
-
 ## postcss-import
 License: MIT
 By: Maxime Thirouin
@@ -4515,35 +4471,6 @@ Repository: git+https://github.com/antfu/strip-literal.git
 > MIT License
 > 
 > Copyright (c) 2022 Anthony Fu <https://github.com/antfu>
-> 
-> Permission is hereby granted, free of charge, to any person obtaining a copy
-> of this software and associated documentation files (the "Software"), to deal
-> in the Software without restriction, including without limitation the rights
-> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-> copies of the Software, and to permit persons to whom the Software is
-> furnished to do so, subject to the following conditions:
-> 
-> The above copyright notice and this permission notice shall be included in all
-> copies or substantial portions of the Software.
-> 
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-> SOFTWARE.
-
----------------------------------------
-
-## tinyglobby
-License: MIT
-By: Superchupu
-Repository: git+https://github.com/SuperchupuDev/tinyglobby.git
-
-> MIT License
-> 
-> Copyright (c) 2024 Madeline Gurriarán
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
@@ -6160,7 +6087,7 @@ END OF TERMS AND CONDITIONS
 
 The following npm package may be included in this product:
 
- - caniuse-lite@1.0.30001713
+ - caniuse-lite@1.0.30001714
 
 This package contains the following license:
 
@@ -6980,7 +6907,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The following npm package may be included in this product:
 
- - electron-to-chromium@1.5.136
+ - electron-to-chromium@1.5.137
 
 This package contains the following license:
 
@@ -7136,6 +7063,22 @@ SOFTWARE.
 
 -----------
 
+The following npm package may be included in this product:
+
+ - fdir@6.4.3
+
+This package contains the following license:
+
+Copyright 2023 Abdullah Atta
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-----------
+
 The following npm packages may be included in this product:
 
  - emoji-regex@8.0.0
@@ -7222,7 +7165,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 The following npm packages may be included in this product:
 
  - @esbuild/win32-x64@0.25.2
- - @pkgr/core@0.2.2
+ - @pkgr/core@0.2.4
  - @rollup/rollup-win32-x64-msvc@4.40.0
  - @types/json5@0.0.29
  - eastasianwidth@0.2.0
@@ -7675,7 +7618,7 @@ SOFTWARE.
 
 The following npm packages may be included in this product:
 
- - @eslint-community/eslint-utils@4.6.0
+ - @eslint-community/eslint-utils@4.6.1
  - @eslint-community/regexpp@4.12.1
 
 These packages each contain the following license:
@@ -7836,14 +7779,14 @@ SOFTWARE.
 
 The following npm packages may be included in this product:
 
- - @typescript-eslint/eslint-plugin@8.29.1
- - @typescript-eslint/parser@8.29.1
- - @typescript-eslint/scope-manager@8.29.1
- - @typescript-eslint/types@8.29.1
- - @typescript-eslint/typescript-estree@8.29.1
- - @typescript-eslint/utils@8.29.1
- - @typescript-eslint/visitor-keys@8.29.1
- - typescript-eslint@8.29.1
+ - @typescript-eslint/eslint-plugin@8.30.1
+ - @typescript-eslint/parser@8.30.1
+ - @typescript-eslint/scope-manager@8.30.1
+ - @typescript-eslint/types@8.30.1
+ - @typescript-eslint/typescript-estree@8.30.1
+ - @typescript-eslint/utils@8.30.1
+ - @typescript-eslint/visitor-keys@8.30.1
+ - typescript-eslint@8.30.1
 
 These packages each contain the following license:
 
@@ -8062,7 +8005,7 @@ SOFTWARE.
 
 The following npm package may be included in this product:
 
- - @typescript-eslint/type-utils@8.29.1
+ - @typescript-eslint/type-utils@8.30.1
 
 This package contains the following license:
 
@@ -8092,7 +8035,7 @@ SOFTWARE.
 
 The following npm package may be included in this product:
 
- - synckit@0.11.3
+ - synckit@0.11.4
 
 This package contains the following license:
 
@@ -8460,6 +8403,36 @@ These packages each contain the following license:
 MIT License
 
 Copyright (c) 2024 Jordan Harband
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----------
+
+The following npm package may be included in this product:
+
+ - tinyglobby@0.2.12
+
+This package contains the following license:
+
+MIT License
+
+Copyright (c) 2024 Madeline Gurriarán
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9815,11 +9788,12 @@ THE SOFTWARE.
 
 -----------
 
-The following npm package may be included in this product:
+The following npm packages may be included in this product:
 
  - picomatch@2.3.1
+ - picomatch@4.0.2
 
-This package contains the following license:
+These packages each contain the following license:
 
 The MIT License (MIT)
 
